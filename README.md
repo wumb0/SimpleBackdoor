@@ -1,5 +1,7 @@
-SimpleBackdoor (WINDOWS, tested Win7)
-=====================================
+SimpleBackdoor 
+===============
+
+For WINDOWS. tested on Windows 7.
 
 A simple multithreaded backdoor. Spawns a command prompt and redirects input and output over a TCP socket that can be accessed via netcat.
 
