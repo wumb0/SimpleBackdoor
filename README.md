@@ -16,6 +16,6 @@ Based (heavily in some sections) on code from http://hackforlifeee.wordpress.com
 - Removed global variables
 - Commented more, made variable names a bit more understandable
 
-Compile for maximum compatibility (no VC++ Redistributables required) as detailed here: http://www.havefuninsi.de/?p=290
+Compile for maximum compatibility (no VC++ Redistributables required) as detailed here: https://wumb0.in/Compiling-Redistributable-DLL-Independent-in-Visual-Studio.html
 
 Enjoy!
